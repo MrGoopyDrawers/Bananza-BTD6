@@ -14,6 +14,16 @@ Here's a list of mods and there descriptions:
 The Mayor Monkey is a new hero you can get with some cool images and a full 20 levels. At base level, this hero throws a cash bag at bloons, which make money everytime they fire. This hero specializes in giving all kinds of nice buffs to your monkeys like discounts and stat boosts. It has 3 abilities unlocked at level 3, 10, and 20. Since this hero is basically a jack-of-all trades, it recieves Hero XP 2x slower than ANY other hero, so keep that in mind. Enjoy having the mayor of Monkeytown assist you in your bloon popping problems.
 
 
+# Minigunner Monkey
+
+
+![minigunner-removebg-preview](https://user-images.githubusercontent.com/107856947/205469703-19a83f97-6bf4-4070-8e91-796272c0dac4.png)
+
+(Download the MinigunnerMonkey.dll file in the project to import it to BTD6)
+
+The Minigunner Monkey is a full 15 upgrades with paragon tower excelling in fast firing. It's first path is full on projectiles and DPS, each upgrade getting more firerate and projectiles to shoot. The second path pops all types of bloons, and does decent damage and pierce, with it's ability being almost always active, giving more damage on use. The 3rd path focuses on crowd control with getting shrapnel and increases effectivitey of the shrapnel. The paragon combines all of these things together for an absolute commander on the battlefield.
+
+
 
 # The Daisy Tower + Zion Hero 
 
