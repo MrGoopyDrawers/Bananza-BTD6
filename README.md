@@ -5,6 +5,6 @@
 
 <h1 align="center">BananzaBTD6</h1>
 
-Adds the bananza gamemode to BTD6. Gives you DOUBLE cash generation, more starting cash to jumpstart your farming early game, and sets the end round to round 200 instead of 100. Pair this with other mods to recreate the BTDB fun!
+Adds the bananza gamemode to BTD6. Gives you DOUBLE cash generation, more starting cash to jumpstart your farming early game, and sets the end round to round 200 instead of 100. Pair this with other mods to recreate the BTDB fun! The gamemode is under MEDIUM mode.
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
