@@ -1,0 +1,12 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\bin\Debug\net6.0\BananzaBTD6.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\bin\Debug\net6.0\BananzaBTD6.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\bin\Debug\net6.0\Btd6ModHelper (6).dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\obj\Debug\net6.0\BananzaBTD6.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\obj\Debug\net6.0\BananzaBTD6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\obj\Debug\net6.0\BananzaBTD6.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\obj\Debug\net6.0\BananzaBTD6.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\obj\Debug\net6.0\BananzaBTD6.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\obj\Debug\net6.0\BananzaBTD6.csproj.CopyComplete
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\obj\Debug\net6.0\BananzaBTD6.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\obj\Debug\net6.0\refint\BananzaBTD6.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananzaBTD6\obj\Debug\net6.0\ref\BananzaBTD6.dll
